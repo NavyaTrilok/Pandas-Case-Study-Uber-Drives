@@ -1,4 +1,4 @@
-This is my pandas practice **Code/answers to the belows questions are in my jupyter notebook**
+This is my pandas practice **Code/answers to the below questions are in my jupyter notebook**
 
 1. Reading the Data
 2. View First n rows of Data
