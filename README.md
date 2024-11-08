@@ -1,3 +1,5 @@
+Code/answers to the belows questions are in my jupyter notebook
+
 1. Reading the Data
 2. View First n rows of Data
 3. View the last 5 rows of Data
