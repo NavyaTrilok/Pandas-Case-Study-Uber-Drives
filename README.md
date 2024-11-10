@@ -28,5 +28,5 @@ This is my pandas practice **Code/answers to the below questions are in my jupyt
 30. Extract the day from the START_DATE column
 31. Find the total miles covered per category per purpose
 
-Took the questions from Programming Is Fun chanel in YouTube
+Took the questions from Programming Is Fun channel in YouTube
 https://www.youtube.com/watch?v=zLYC_Py_rk4
